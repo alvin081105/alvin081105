@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 
-[![alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin081105&show_icons=[true&theme=테마](https://camo.githubusercontent.com/19d8654f3cfdcde75be1216b4967e72c59bc0abf38deb7590aca90d3e46e86d5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d616d6269656e745f6772616469656e74)a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?alvin081105=anuraghazra&theme=dark&show_icons=true)
 
 <a href="https://velog.io/@alvin081105/posts"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <a href="https://www.instagram.com/kimcaehwan_1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
