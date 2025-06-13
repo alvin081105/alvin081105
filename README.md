@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?alvin081105=anuraghazra&theme=dark&show_icons=true)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin081105&theme=dark&show_icons=true)
 
 <a href="https://velog.io/@alvin081105/posts"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
 <a href="https://www.instagram.com/kimcaehwan_1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
