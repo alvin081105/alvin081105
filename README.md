@@ -26,11 +26,5 @@ Here are some ideas to get you started:
   width="600"
   height="300"
 />
-</a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alvin081105&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/alvin081105"
-  width="600"
-  height="300"
-/>
 </a>
 
